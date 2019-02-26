@@ -17,10 +17,11 @@ namespace l3
             {
                 case 1: a = Console.Read(); break;
                 case 2: b = Console.Read(); break;
-                case 4: res = a - b; break;
                 case 3: res = a + b; break;
-                case 5:
+                case 4: res = a - b; break;
+                case 5: res = a * b; break;
                 case 6: res = a / b; break;
+               
                 default: break;
             }
             Console.ReadKey();
