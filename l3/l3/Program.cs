@@ -18,7 +18,7 @@ namespace l3
                 case 1: a = Console.Read(); break;
                 case 2: b = Console.Read(); break;
                 case 3: 
-                case 4:
+                case 4: res = a - b; break;
                 case 5:
                 case 6: res = a / b; break;
                 default: break;
