@@ -20,7 +20,7 @@ namespace l3
                 case 3: 
                 case 4:
                 case 5:
-                case 6: 
+                case 6: res = a / b; break;
                 default: break;
             }
             Console.ReadKey();
