@@ -17,7 +17,7 @@ namespace l3
             {
                 case 1: 
                 case 2: 
-                case 3: 
+                case 3: res = a + b; break;
                 case 4:
                 case 5:
                 case 6: 
