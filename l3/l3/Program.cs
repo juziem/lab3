@@ -19,7 +19,7 @@ namespace l3
                 case 2: 
                 case 3: 
                 case 4:
-                case 5:
+                case 5: res = a * b; break;
                 case 6: 
                 default: break;
             }
