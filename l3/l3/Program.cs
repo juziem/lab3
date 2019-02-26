@@ -15,7 +15,7 @@ namespace l3
             key = Console.Read();
             switch (key)
             {
-                case 1: a = Console.Read();  break;
+                case 1: a = Console.Read(); break;
                 case 2: 
                 case 3: 
                 case 4:
